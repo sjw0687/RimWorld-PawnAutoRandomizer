@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <PawnRandomizerAuto_MaxSearchLimit>Maximum search limit: {0}</PawnRandomizerAuto_MaxSearchLimit>
+    <PawnRandomizerAuto_Reset>Reset</PawnRandomizerAuto_Reset>
+    <PawnRandomizerAuto_RandomizeTriedCount>{0} Created</PawnRandomizerAuto_RandomizeTriedCount>
+    <PawnRandomizerAuto_RandomizeSearchFailed>Failed to serach. Keep trying or ease the conditions of the filter.</PawnRandomizerAuto_RandomizeSearchFailed>
+    <PawnRandomizerAuto_Filter>Filter</PawnRandomizerAuto_Filter>
+    <PawnRandomizerAuto_PassionSliderDesc>Passion for {0} >= {1}</PawnRandomizerAuto_PassionSliderDesc>
+    <PawnRandomizerAuto_Passion_None>None</PawnRandomizerAuto_Passion_None>
+    <PawnRandomizerAuto_Passion_Interested>Interested</PawnRandomizerAuto_Passion_Interested>
+    <PawnRandomizerAuto_Passion_Burning>Burning</PawnRandomizerAuto_Passion_Burning>
+    <PawnRandomizerAuto_IncapacitiesToExclude>Incapacities to exclude</PawnRandomizerAuto_IncapacitiesToExclude>
+</LanguageData>

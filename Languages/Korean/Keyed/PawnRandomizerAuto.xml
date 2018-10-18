@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+    <PawnRandomizerAuto_MaxSearchLimit>최대 시도 횟수: {0}</PawnRandomizerAuto_MaxSearchLimit>
+    <PawnRandomizerAuto_Reset>초기화</PawnRandomizerAuto_Reset>
+    <PawnRandomizerAuto_RandomizeTriedCount>{0}번 생성됨</PawnRandomizerAuto_RandomizeTriedCount>
+    <PawnRandomizerAuto_RandomizeSearchFailed>조건에 맞는 거주민을 찾지 못했습니다. 필터 조건을 완화하거나 계속 시도하십시오.</PawnRandomizerAuto_RandomizeSearchFailed>
+    <PawnRandomizerAuto_Filter>필터</PawnRandomizerAuto_Filter>
+    <PawnRandomizerAuto_PassionSliderDesc>{0}에 대한 열정 >= {1}</PawnRandomizerAuto_PassionSliderDesc>
+    <PawnRandomizerAuto_Passion_None>없음</PawnRandomizerAuto_Passion_None>
+    <PawnRandomizerAuto_Passion_Interested>불</PawnRandomizerAuto_Passion_Interested>
+    <PawnRandomizerAuto_Passion_Burning>쌍불</PawnRandomizerAuto_Passion_Burning>
+    <PawnRandomizerAuto_IncapacitiesToExclude>제외할 결격사항</PawnRandomizerAuto_IncapacitiesToExclude>
+</LanguageData>
